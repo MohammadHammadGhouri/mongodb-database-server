@@ -94,7 +94,7 @@ app.get('/home', (req, res) => {
     res.send('here is your home')
 })
 app.get('/', (req, res) => {
-    res.send('Hi I am a hello world Server program by Hammad Raza')
+    res.send('Hi I am a hello world Server program by Hammad Ghouri')
 })
 
 app.listen(port, () => {
